@@ -7,11 +7,16 @@
 
 ## 🚀 Featured Projects
 
-### 🎮 Memorization Game (Arduino + LCD + Keypad)
-- Built with Arduino Mega
-- LCD1602 display + buzzer + LED indicators
-- Documented wiring schematic + demo video
-- Focused on modular firmware structure
+### 🔐 RFID Access Control System (Arduino + Keypad + Servo)
+
+- Multi-factor authentication (PIN + RFID)
+- MFRC522 RFID module
+- 4x4 Keypad input handling
+- Servo-controlled gate mechanism
+- Green/Red LED status indicators
+- Audio feedback via passive buzzer
+- Modular firmware structure
+- Full wiring schematic documented
 
 ### 📺 Teleshow (React + Flask)
 - Full-stack web app
