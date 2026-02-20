@@ -20,7 +20,7 @@
 
 ### 📺 Teleshow (React + Flask)
 - Full-stack web app
-- ![Teleshow UI](images/teleshow-home.png)
+![Teleshow](images/teleshow-home.png)
 - Firebase Authentication
 - Real-time API integration (TMDB + Watchmode)
 - User favorites, reviews, trailers
