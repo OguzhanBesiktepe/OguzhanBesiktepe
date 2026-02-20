@@ -7,6 +7,16 @@
 
 ## 🚀 Featured Projects
 
+### 📺 Teleshow (React + Flask)
+
+- Full-stack web app
+- Firebase Authentication
+
+<img src="images/Teleshow-home.png" width="600"/>
+
+- Real-time API integration (TMDB + Watchmode)
+- User favorites, reviews, trailers
+
 ### 🔐 RFID Access Control System (RFID, Keypad, EEPROM)
 
 - Multi-factor authentication (PIN + RFID)
@@ -20,16 +30,6 @@
 - Audio feedback via passive buzzer
 - Modular firmware structure
 - Full wiring schematic documented
-
-### 📺 Teleshow (React + Flask)
-
-- Full-stack web app
-- Firebase Authentication
-
-<img src="images/Teleshow-home.png" width="600"/>
-
-- Real-time API integration (TMDB + Watchmode)
-- User favorites, reviews, trailers
 
 ### 📊 Bond Market Liquidity Analysis
 - Python (pandas, numpy, matplotlib)
