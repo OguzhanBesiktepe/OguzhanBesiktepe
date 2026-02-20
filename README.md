@@ -1,6 +1,4 @@
-# Hello welcome to my profile name's Oguzhan!
-
-# "Small disciplines repeated with consistency every day lead to great achievement gained slowly over time"
+# Hello welcome to my profile!
 
 💻 Software Engineer & Embedded Systems Enthusiast 
 📍 Long Island, NY
