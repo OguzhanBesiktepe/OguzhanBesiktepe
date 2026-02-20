@@ -19,8 +19,12 @@
 - Full wiring schematic documented
 
 ### 📺 Teleshow (React + Flask)
+
+<p align="center">
+  <img src="images/Teleshow-home.png" width="650"/>
+</p>
+
 - Full-stack web app
-![Teleshow](images/Teleshow-home.png)
 - Firebase Authentication
 - Real-time API integration (TMDB + Watchmode)
 - User favorites, reviews, trailers
