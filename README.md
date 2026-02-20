@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Oguzhan 👋
 
-<!--
-**OguzhanBesiktepe/OguzhanBesiktepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer & Embedded Systems Enthusiast 
+📍 Long Island, NY 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🎮 Memorization Game (Arduino + LCD + Keypad)
+- Built with Arduino Mega
+- LCD1602 display + buzzer + LED indicators
+- Documented wiring schematic + demo video
+- Focused on modular firmware structure
+
+### 📺 Teleshow (React + Flask)
+- Full-stack web app
+- Firebase Authentication
+- Real-time API integration (TMDB + Watchmode)
+- User favorites, reviews, trailers
+
+### 📊 Bond Market Liquidity Analysis
+- Python (pandas, numpy, matplotlib)
+- SQLite database
+- ETF return analysis + correlations
