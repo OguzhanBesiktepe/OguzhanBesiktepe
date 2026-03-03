@@ -8,7 +8,7 @@
 ## 🚀 Featured Projects
 
 - <img width="20" height="20" alt="Counter Strike 2" src="https://github.com/user-attachments/assets/f82e8426-e045-45ac-814e-722490b142b7" /> 
-  Counter Strike 2 Skins Website – Browse an in-depth marketplace to search, filter, and price your favorite skins! (In-progress)
+  Counter Strike 2 Skins Website – Browse an in-depth marketplace to search, filter, and price your favorite skins!
 
   🗡️ <a href="https://show-skins.vercel.app" target="_blank">See the website here</a>
 
