@@ -15,7 +15,7 @@
 - <img width="20" height="20" alt="DuelDex" src="https://github.com/user-attachments/assets/YOUR_ICON_HERE" /> 
   DuelDex – Browse, filter, search, and compare pricing for Yu-Gi-Oh! and Pokémon trading cards across multiple platforms.
 
-  🃏 <a href="https://duel-dex.vercel.app" target="_blank">Website Here!</a> *In Progress*
+  <a href="https://duel-dex.vercel.app" target="_blank">Website Here!</a> *In Progress*
 
 - 🔐 RFID Access Control System (Arduino, RFID, Keypad functionality & more!)
 - 📺 Teleshow (React + Flask Full-Stack App)
